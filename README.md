@@ -3,6 +3,11 @@
 
 EurekaQA is a Question & Answering Model that has been trained by [Kaludi](https://huggingface.co/Kaludi) to analyze text data and automatically answer questions based on the information contained within. The model uses advanced machine learning algorithms to perform extractive question-answering, meaning it selects the relevant information from a given text document to present as the answer to the question.
 
+# Web App
+Click [Here](https://huggingface.co/spaces/Kaludi/EurekaQA) To View This App Online!
+
+![Image](edit)
+
 The model is trained on the [EurekaQA dataset](https://huggingface.co/datasets/Kaludi/data-eurekaQA) and the model can be found on [Hugging Face](https://huggingface.co/Kaludi/eurekaQA-model).
 
 EurekaQA can be used in a variety of applications, including customer service, virtual assistants, and information retrieval systems.
