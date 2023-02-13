@@ -6,7 +6,7 @@ EurekaQA is a Question & Answering Model that has been trained by [Kaludi](https
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/EurekaQA) To View This App Online!
 
-![Image](edit)
+![Image](https://github.com/Kaludii/EurekaQA/blob/main/images/QA.png?raw=true)
 
 The model is trained on the [EurekaQA dataset](https://huggingface.co/datasets/Kaludi/data-eurekaQA) and the model can be found on [Hugging Face](https://huggingface.co/Kaludi/eurekaQA-model).
 
